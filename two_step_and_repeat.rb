@@ -8,7 +8,7 @@ def first_steps
   end
   # "Right foot back", and "Stop", with sleep after each
 end
-first_steps
+# first_steps
 
 def a_few_more_steps
   # Write a loop that outputs the first two sets of steps in the Two-Step
@@ -24,7 +24,7 @@ def a_few_more_steps
     sleep(1)
   end
 end
-a_few_more_steps
+# a_few_more_steps
 
 def how_many_steps?
   # Write a loop that fulfills all criteria from Part 3 of the README.md
@@ -41,7 +41,7 @@ def how_many_steps?
     end
   end
 end
-how_many_steps
+# how_many_steps
 
 def break_dance
   # Write a solution that uses the same code as how_many_steps?, but breaks the
